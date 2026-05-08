@@ -1,5 +1,5 @@
 # Emotion Detection Web Application
-
+This is the Final Project for the IBM Python Project for AI & Application Development course.
 ## 📝 Description
 This project is a Flask-based web application that detects and analyzes emotions in text using the IBM Watson Embedded AI Libraries. It evaluates a given statement and returns an emotion profile consisting of scores for **anger, disgust, fear, joy, and sadness**, as well as identifying the **dominant emotion**.
 
